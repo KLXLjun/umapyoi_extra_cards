@@ -1,0 +1,17 @@
+{
+    "type": "wisdom",
+    "max_damage": 10,
+    "ranking": "r",
+    "supporters": [
+        "umapyoi:daiwa_scarlet"
+    ],
+    "supports": [
+        {
+            "level": 1,
+            "support": "umapyoi:wisdom_support"
+        },{
+            "level": 1,
+            "support": "umapyoi:speed_support"
+        }
+    ]
+}

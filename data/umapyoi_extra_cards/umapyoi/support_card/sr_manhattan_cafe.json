@@ -1,0 +1,18 @@
+{
+    "type": "stamina",
+    "max_damage": 8,
+    "ranking": "sr",
+    "supporters": [
+        "umapyoi:manhattan_cafe"
+    ],
+    "supports": [
+        {
+            "level": 2,
+            "support": "umapyoi:stamina_support"
+        },
+        {
+            "level": 1,
+            "support": "umapyoi:skill_support"
+        }
+    ]
+  }

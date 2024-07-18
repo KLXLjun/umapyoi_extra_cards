@@ -1,0 +1,18 @@
+{
+    "type": "speed",
+    "max_damage": 8,
+    "ranking": "sr",
+    "supporters": [
+        "umapyoi:silence_suzuka"
+    ],
+    "supports": [
+        {
+            "level": 2,
+            "support": "umapyoi:speed_support"
+        },
+        {
+            "level": 1,
+            "support": "umapyoi:guts_support"
+        }
+    ]
+}

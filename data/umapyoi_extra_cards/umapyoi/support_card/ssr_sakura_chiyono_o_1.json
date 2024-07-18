@@ -1,0 +1,18 @@
+{
+    "type": "stamina",
+    "max_damage": 10,
+    "ranking": "ssr",
+    "supporters": [
+        "umapyoi:sakura_chiyono_o"
+    ],
+    "supports": [
+        {
+            "level": 4,
+            "support": "umapyoi:stamina_support"
+        },
+        {
+            "level": 2,
+            "support": "umapyoi:strength_support"
+        }
+    ]
+}

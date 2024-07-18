@@ -1,0 +1,22 @@
+{
+    "type": "wisdom",
+    "max_damage": 12,
+    "ranking": "ssr",
+    "supporters": [
+        "umapyoi:aston_machan"
+    ],
+    "supports": [
+        {
+            "level": 3,
+            "support": "umapyoi:wisdom_support"
+        },
+        {
+            "level": 2,
+            "support": "umapyoi:speed_support"
+        },
+        {
+            "level": 1,
+            "support": "umapyoi:actionpoint_support"
+        }
+    ]
+  }

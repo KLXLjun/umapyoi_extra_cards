@@ -1,0 +1,18 @@
+{
+    "type": "guts",
+    "max_damage": 10,
+    "ranking": "r",
+    "supporters": [
+        "umapyoi:copano_rickey"
+    ],
+    "supports": [
+        {
+            "level": 1,
+            "support": "umapyoi:guts_support"
+        },
+        {
+            "level": 1,
+            "support": "umapyoi:strength_support"
+        }
+    ]
+}

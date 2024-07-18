@@ -1,0 +1,18 @@
+{
+    "type": "wisdom",
+    "max_damage": 8,
+    "ranking": "sr",
+    "supporters": [
+        "umapyoi:mejiro_ardan"
+    ],
+    "supports": [
+        {
+            "level": 2,
+            "support": "umapyoi:wisdom_support"
+        },
+        {
+            "level": 1,
+            "support": "umapyoi:speed_support"
+        }
+    ]
+}

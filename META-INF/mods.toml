@@ -1,0 +1,44 @@
+modLoader="lowcodefml" # DO NOT MODIFY
+loaderVersion="40" # DO NOT MODIFY
+license="CC-BY-NC-SA-4.0,https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" #mandatory
+issueTrackerURL="https://github.com/KLXLjun/umapyoi_extra_cards/issues"
+[[mods]]
+modId="umapyoi_extra_cards" #mandatory
+version="1.0.0-1.20.1" #mandatory
+displayName="Umapyoi Extra Cards" #mandatory
+authors="HuYaoi"
+description='''
+为马儿蹦跳增加更多支援卡
+Added more support cards for Umapyoi
+
+当前增加的支援卡平衡不足，仅作测试用。
+使用时请注意备份游戏存档，以防游戏中或是因更新版本导致的错误或崩溃。
+The current support cards added are not balanced enough and are only for testing.
+Please remember to back up the game save when using it to prevent errors or crashes in the game or due to updated versions.
+
+模组使用的内容：
+Trainers-Legend-G-TRANS (https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS/blob/master/translation-progress.md) 
+许可证：署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)(https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+'''
+
+[[dependencies.umapyoi_extra_cards]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[40,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.umapyoi_extra_cards]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.umapyoi_extra_cards]]
+    modId="umapyoi"
+    mandatory=true
+    versionRange="[1.5.29-1.20.1,)"
+    ordering="AFTER"
+    side="BOTH"
