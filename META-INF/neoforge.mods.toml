@@ -1,10 +1,10 @@
 modLoader="lowcodefml" # DO NOT MODIFY
-loaderVersion="40" # DO NOT MODIFY
+loaderVersion="[4,)" # DO NOT MODIFY
 license="CC-BY-NC-SA-4.0,https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" #mandatory
 issueTrackerURL="https://github.com/KLXLjun/umapyoi_extra_cards/issues"
 [[mods]]
 modId="umapyoi_extra_cards" #mandatory
-version="1.0.1-1.20.1" #mandatory
+version="1.0.1-1.21.1" #mandatory
 displayName="Umapyoi Extra Cards" #mandatory
 authors="HuYaoi"
 description='''
@@ -23,22 +23,22 @@ Trainers-Legend-G-TRANS (https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS/
 
 [[dependencies.umapyoi_extra_cards]] #optional
     # the modid of the dependency
-    modId="forge" #mandatory
+    modId="neoforge" #mandatory
     mandatory=true #mandatory
-    versionRange="[40,)" #mandatory
+    versionRange="[21,)" #mandatory
     ordering="NONE"
     side="BOTH"
     
 [[dependencies.umapyoi_extra_cards]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.20.1,)"
+    versionRange="[1.21.1,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.umapyoi_extra_cards]]
     modId="umapyoi"
     mandatory=true
-    versionRange="[1.5.29-1.20.1,)"
+    versionRange="[1.1.5-1.21.1,)"
     ordering="AFTER"
     side="BOTH"
