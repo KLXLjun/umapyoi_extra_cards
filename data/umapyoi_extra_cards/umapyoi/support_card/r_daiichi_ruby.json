@@ -1,0 +1,18 @@
+{
+    "type": "strength",
+    "max_damage": 8,
+    "ranking": "r",
+    "supporters": [
+        "umapyoi:daiichi_ruby"
+    ],
+    "supports": [
+        {
+            "level": 1,
+            "support": "umapyoi:strength_support"
+        },
+        {
+            "level": 1,
+            "support": "umapyoi:actionpoint_support"
+        }
+    ]
+}

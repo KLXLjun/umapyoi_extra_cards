@@ -4,7 +4,7 @@ license="CC-BY-NC-SA-4.0,https://creativecommons.org/licenses/by-nc-sa/4.0/deed.
 issueTrackerURL="https://github.com/KLXLjun/umapyoi_extra_cards/issues"
 [[mods]]
 modId="umapyoi_extra_cards" #mandatory
-version="1.0.1-1.20.1" #mandatory
+version="1.0.2-1.20.1" #mandatory
 displayName="Umapyoi Extra Cards" #mandatory
 authors="HuYaoi"
 description='''

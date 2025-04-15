@@ -1,0 +1,18 @@
+{
+    "type": "stamina",
+    "max_damage": 10,
+    "ranking": "sr",
+    "supporters": [
+        "umapyoi:mejiro_palmer"
+    ],
+    "supports": [
+        {
+            "level": 2,
+            "support": "umapyoi:stamina_support"
+        },
+        {
+            "level": 1,
+            "support": "umapyoi:guts_support"
+        }
+    ]
+}

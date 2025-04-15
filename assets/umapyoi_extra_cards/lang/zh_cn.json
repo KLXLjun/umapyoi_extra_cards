@@ -15,6 +15,16 @@
     "support_card.umapyoi_extra_cards.ssr_special_week_1.name": "[我们一起，去抓住梦想吧！] 特别周",
     "support_card.umapyoi_extra_cards.ssr_special_week_2.name": "[晚霞是令人向往的颜色] 特别周",
     "support_card.umapyoi_extra_cards.ssr_special_week_3.name": "[在日本第一的舞台] 特别周",
+    "support_card.umapyoi_extra_cards.ssr_eishin_flash.name": "[Danke schön] 荣进闪耀",
+    "support_card.umapyoi_extra_cards.ssr_rhein_kraft.name": "[皇冠描绘的境界线] 莱茵力量",
+    "support_card.umapyoi_extra_cards.ssr_still_in_love.name": "[Devilish Whispers] 爱如往昔",
+    "support_card.umapyoi_extra_cards.ssr_daiichi_ruby.name": "[啊，华丽一族] 第一红宝石",
+    "support_card.umapyoi_extra_cards.ssr_mejiro_palmer.name": "[和傻瓜一起笑] 目白善信",
+    "support_card.umapyoi_extra_cards.ssr_mejiro_palmer_1.name": "[月下的小恶魔♪] 目白善信",
+    "support_card.umapyoi_extra_cards.ssr_mejiro_palmer_2.name": "[如海鸥一般] 目白善信",
+    "support_card.umapyoi_extra_cards.ssr_vivlos.name": "[得意的胜利笑容] 强击",
+    "support_card.umapyoi_extra_cards.ssr_vivlos_1.name": "[珍藏的谢幕礼] 强击",
+    "support_card.umapyoi_extra_cards.ssr_vivlos_2.name": "[六出花之梦] 强击",
 
     "support_card.umapyoi_extra_cards.sr_manhattan_cafe.name": "[雨的独奏，我的独创] 曼城茶座",
     "support_card.umapyoi_extra_cards.sr_gold_city.name": "[以金色为目标] 黄金城市",
@@ -55,6 +65,8 @@
     "support_card.umapyoi_extra_cards.sr_daiwa_scarlet.name": "[努力是不会背叛的！] 大和赤骥",
     "support_card.umapyoi_extra_cards.sr_king_halo.name": "[一流计划] 圣王光环",
     "support_card.umapyoi_extra_cards.sr_el_condor_pasa.name": "[尘土满身的Compañero] 神鹰",
+    "support_card.umapyoi_extra_cards.sr_eishin_flash.name": "[05:00・准时遵守] 荣进闪耀",
+    "support_card.umapyoi_extra_cards.sr_mejiro_palmer.name": "[会得救的哦♪] 目白善信",
 
     "support_card.umapyoi_extra_cards.r_silence_suzuka.name": "[特雷森学院] 无声铃鹿",
     "support_card.umapyoi_extra_cards.r_tokai_teio.name": "[特雷森学院] 东海帝王",
@@ -101,6 +113,12 @@
     "support_card.umapyoi_extra_cards.r_mejiro_ramonu.name": "[特雷森学院] 目白高峰",
     "support_card.umapyoi_extra_cards.r_jungle_pocket.name": "[特雷森学院] 森林宝穴",
     "support_card.umapyoi_extra_cards.r_copano_rickey.name": "[特雷森学院] 小林历奇",
+    "support_card.umapyoi_extra_cards.r_eishin_flash.name": "[特雷森学园] 荣进闪耀",
+    "support_card.umapyoi_extra_cards.r_rhein_kraft.name": "[特雷森学园] 莱茵力量",
+    "support_card.umapyoi_extra_cards.r_still_in_love.name": "[特雷森学园] 爱如往昔",
+    "support_card.umapyoi_extra_cards.r_daiichi_ruby.name": "[特雷森学园] 第一红宝石",
+    "support_card.umapyoi_extra_cards.r_mejiro_palmer.name": "[特雷森学园] 目白善信",
+    "support_card.umapyoi_extra_cards.r_vivlos.name": "[特雷森学园] 强击",
 
     "umadata.umapyoi.wonder_acute": "奇锐骏"
 }

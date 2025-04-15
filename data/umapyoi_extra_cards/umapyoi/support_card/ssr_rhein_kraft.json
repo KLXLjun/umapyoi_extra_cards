@@ -1,0 +1,18 @@
+{
+    "type": "guts",
+    "max_damage": 12,
+    "ranking": "ssr",
+    "supporters": [
+        "umapyoi:rhein_kraft"
+    ],
+    "supports": [
+        {
+            "level": 4,
+            "support": "umapyoi:guts_support"
+        },
+        {
+            "level": 3,
+            "support": "umapyoi:strength_support"
+        }
+    ]
+}
